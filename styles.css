@@ -1,5 +1,11 @@
 body{
     font-family: "Sour Gummy", serif;
+    color: #0C0A3E;
+}
+
+p{
+    font-size: 1.3rem;
+    padding: auto;
 }
 
 /*== NAV BAR ==*/
@@ -48,6 +54,24 @@ body{
 
 .caption h3{
     text-shadow: .1rem .1rem .8rem black;
+}
+
+header{
+    padding: 90px;
+    text-align: center; 
+}
+
+
+/*==Main==*/ 
+h2{
+    color: #087CA7;
+}
+
+/*==Images Adjustment ==*/ 
+.rounded-circle{
+    width: 400px;
+    height: 400px;
+    border: 10px solid #087CA7;
 }
 
 /*== Footer ==*/
