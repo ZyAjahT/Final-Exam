@@ -74,6 +74,11 @@ h2{
     border: 10px solid #087CA7;
 }
 
+.animalsimg{
+    width: 30vh;
+    height: 30vh;
+}
+
 /*== Footer ==*/
 footer{
     text-align: center;
